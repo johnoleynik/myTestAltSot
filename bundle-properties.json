@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "id": "ac900fcd-d616-40d4-87de-f13eed0b49a4",
+    "name": "Gateway Graphman Bundle - 2024-06-18T14:37:25.849Z",
+    "author": "admin",
+    "hostname": "mydevgw.brcmlabs.com",
+    "timestamp": "2024-06-18T14:37:25.849Z"
+  },
+  "defaultAction": "NEW_OR_UPDATE"
+}
